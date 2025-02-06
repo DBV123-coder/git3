@@ -2,7 +2,7 @@ package git;
 
 public class git3 {
 	public void versions() {
-		System.out.println("Welcome to version 2");
+		System.out.println("Welcome to version 3");
 	}
 
 }
